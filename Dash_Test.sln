@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{47948A44-8DE0-8DBC-B22D-AF652506CC45}") = "Dash_Test", "Assembly-CSharp.csproj", "{260F4A69-A889-B3B8-7664-E30417B93515}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{260F4A69-A889-B3B8-7664-E30417B93515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{260F4A69-A889-B3B8-7664-E30417B93515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{260F4A69-A889-B3B8-7664-E30417B93515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{260F4A69-A889-B3B8-7664-E30417B93515}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
